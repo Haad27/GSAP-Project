@@ -4,7 +4,7 @@ import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
-import Cocktails from './components/cocktail'
+import Cocktails from './components/Cocktail'
 //split text for text animation and the scrool trogger for scroll animatin
 gsap.registerPlugin(ScrollTrigger, SplitText);
 

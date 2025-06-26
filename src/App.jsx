@@ -6,6 +6,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Cocktails from './components/Cocktail'
 import About from './components/About'
+import Art from './components/Art'
 //split text for text animation and the scrool trogger for scroll animatin
 gsap.registerPlugin(ScrollTrigger, SplitText);
 
@@ -16,6 +17,7 @@ const App = () => {
            <Hero/>
            <Cocktails/>
            <About/>
+           <Art/>
          </main>
     )
 }

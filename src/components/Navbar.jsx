@@ -34,7 +34,7 @@ const navbar = () => {
                 <a className='flex items-center gap-2' href='#home'>
                     <img src="/images/logo.png" alt="logo" />
                     <p>
-                        Velvet Pour
+                        Juice Zone
                     </p>
                 </a>
                 <ul>

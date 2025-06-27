@@ -73,7 +73,7 @@ const Hero = () => {
  return (
 	<>
 	 <section id="hero" className="noisy">
-		<h1 className="title">MOJITO</h1>
+		<h1 className="title">Juice Zone</h1>
 		
 		<img
 		 src="/images/hero-left-leaf.png"
@@ -99,11 +99,9 @@ const Hero = () => {
 			
 			<div className="view-cocktails">
 			 <p className="subtitle">
-				Every cocktail on our menu is a blend of premium ingredients,
-				creative flair, and timeless recipes — designed to delight your
-				senses.
+				"Every drink at Juice Zone is a fusion of fresh ingredients, bold flavors, and energizing blends — crafted to refresh your body and awaken your senses."
 			 </p>
-			 <a href="#cocktails">View cocktails</a>
+			 <a href="#cocktails">View Juices</a>
 			</div>
 		 </div>
 		</div>

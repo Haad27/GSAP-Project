@@ -37,17 +37,16 @@ const About = () => {
       <div className="mb-16 md:px-0 px-5">
         <div className="content">
           <div className="md:col-span-8">
-            <p className="badge">Best Cocktails</p>
+            <p className="badge">Best Juices</p>
             <h2>
               Where every detail matters <span className="text-white">-</span>
-              from muddle to garnish
+              farm-picked fruits to the final pour
             </h2>
           </div>
 
           <div className="sub-content">
             <p>
-              Every cocktail we serve is a reflection of our obsession with detail — from the first muddle to the final garnish. That care is what turns a simple drink into something truly memorable.
-            </p>
+Every juice at Juice Zone is crafted with purpose — from the first slice to the final pour. It's this attention to freshness that turns every sip into something unforgettable.            </p>
 
             <div>
               <p className="md:text-3xl text-xl font-bold">

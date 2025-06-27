@@ -38,14 +38,14 @@ const Contact = () => {
 		<h2>Where to Find Us</h2>
 		
 		<div>
-		 <h3>Visit Our Bar</h3>
-		 <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+		 <h3>Visit Our Branch</h3>
+		 <p>Plot 14, Sector Y, DHA Phase 3, Lahore, Pakistan</p>
 		</div>
 		
 		<div>
 		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
-		 <p>hello@jsmcocktail.com</p>
+		 <p>(042) 111-123-456</p>
+		 <p>info@juicezone.pk</p>
 		</div>
 		
 		<div>

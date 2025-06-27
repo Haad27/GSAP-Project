@@ -32,7 +32,7 @@ const navbar = () => {
         <nav>
             <div>
                 <a className='flex items-center gap-2' href='#home'>
-                    <img src="/images/logo.png" alt="logo" />
+                    <img src="/images/image-removebg-preview (1).png" alt="logo" className='w-10 h-10 object-contain' />
                     <p>
                         Juice Zone
                     </p>

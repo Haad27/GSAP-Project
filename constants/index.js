@@ -88,27 +88,30 @@ const profileLists = [
 ];
 
 const featureLists = [
- "Perfectly balanced blends",
- "Garnished to perfection",
- "Ice-cold every time",
- "Expertly shaken & stirred",
+  "Perfectly blended freshness",
+  "Naturally sweet and flavorful",
+  "Served chilled every time",
+  "Packed with energizing nutrients",
 ];
+
 
 const goodLists = [
- "Handpicked ingredients",
- "Signature techniques",
- "Bartending artistry in action",
- "Freshly muddled flavors",
+  "Handpicked seasonal fruits",
+  "Cold-pressed juice techniques",
+  "Crafted with care and purity",
+  "No additives, just goodness",
 ];
 
+
 const storeInfo = {
- heading: "Where to Find Us",
- address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
- contact: {
-	phone: "(555) 987-6543",
-	email: "hello@jsmcocktail.com",
- },
+  heading: "Where to Find Us",
+  address: "Plot 14, Sector Y, DHA Phase 3, Lahore, Pakistan",
+  contact: {
+    phone: "(042) 111-123-456",
+    email: "info@juicezone.pk",
+  },
 };
+
 
 const openingHours = [
  { day: "Mon–Thu", time: "11:00am – 12am" },
@@ -136,39 +139,40 @@ const socials = [
 ];
 
 const allCocktails = [
- {
-	id: 1,
-	name: "Classic Mojito",
-	image: "/images/drink1.png",
-	title: "Simple Ingredients, Bold Flavor",
-	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
- },
- {
-	id: 2,
-	name: "Raspberry Mojito",
-	image: "/images/drink2.png",
-	title: "A Zesty Classic That Never Fails",
-	description:
-	 "The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.",
- },
- {
-	id: 3,
-	name: "Violet Breeze",
-	image: "/images/drink3.png",
-	title: "Simple Ingredients, Bold Flavor",
-	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
- },
- {
-	id: 4,
-	name: "Curacao Mojito",
-	image: "/images/drink4.png",
-	title: "Crafted With Care, Poured With Love",
-	description:
-	 "Each cocktail is made with fresh ingredients and a passion for perfecting every pour, whether you're celebrating or simply relaxing.",
- },
+  {
+    id: 1,
+    name: "Fresh Orange Juice",
+    image: "/images/drink1.png",
+    title: "Simple, Pure, and Refreshing",
+    description:
+      "Squeezed from ripe oranges, this juice is bursting with natural citrus flavor — no additives, just pure vitamin-packed freshness.",
+  },
+  {
+    id: 2,
+    name: "Apple Carrot Boost",
+    image: "/images/drink2.png",
+    title: "A Sweet & Earthy Power Blend",
+    description:
+      "A wholesome combo of crisp apples and sweet carrots — blended to fuel your body and satisfy your taste buds in every sip.",
+  },
+  {
+    id: 3,
+    name: "Tropical Energy",
+    image: "/images/drink3.png",
+    title: "Island Vibes in a Cup",
+    description:
+      "Packed with pineapple, mango, and a hint of lime — this tropical mix brings sunshine to your day and freshness to your mood.",
+  },
+  {
+    id: 4,
+    name: "Mixed Fruit Splash",
+    image: "/images/drink4.png",
+    title: "Crafted with Care, Bursting with Flavor",
+    description:
+      "A vibrant fusion of seasonal fruits blended to perfection — every pour is a celebration of color, taste, and natural energy.",
+  },
 ];
+
 
 export {
  navLinks,
